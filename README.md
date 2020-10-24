@@ -1,9 +1,5 @@
 # SamUserbot-100101110
 
-[![GitHub followers](https://img.shields.io/github/followers/100101110?label=Followers&style=social)](https://github.com/100101110?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/100101110/userbot-100101110?style=social)](https://github.com/100101110/userbot-100101110/stars/)
-[![GitHub forks](https://img.shields.io/github/forks/100101110/userbot-100101110?style=social)](https://github.com/100101110/userbot-100101110/network/members)
-[![GitHub watchers](https://img.shields.io/github/watchers/100101110/userbot-100101110?style=social)](https://github.com/100101110/userbot-100101110/watchers/)
 
 ***
 
