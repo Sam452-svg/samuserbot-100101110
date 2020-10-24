@@ -1,5 +1,5 @@
 # SamUserbot-100101110
-
+Ciao, questo è un userbot per TG creato da @Sam_Kincaid_Anticringe, nato recuperando l'userbot 100101110, è pubblico e la guida è a 0 costi. Divertitevi!
 
 ***
 
