@@ -28,11 +28,11 @@ from userbot import CMD_HELP, bot
 from userbot.system import register, errors_handler, dev_cmd
 
 # =================== CONSTANT ===================
-PP_TOO_SMOL = "**L'immagine è troppo piccola**"
+PP_TOO_SMOL = "**Weee l'immagine è troppo piccola!**"
 PP_ERROR = "Failure while processing the image"
-NO_ADMIN = "**Non sei admin bro!**"
-NO_PERM = "Non ho i permessi sufficenti!"
-CHAT_PP_CHANGED = "**Pic impostata**"
+NO_ADMIN = "**Non sei admin nigga!**"
+NO_PERM = "Non ho i permessi retard!"
+CHAT_PP_CHANGED = "**Pic impostata Sam**"
 INVALID_MEDIA = "Invalid Extension"
 # ================================================
 
