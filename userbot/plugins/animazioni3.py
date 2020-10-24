@@ -6,7 +6,7 @@
 #
 # Tutti i diritti riservati.
 # 
-# Crediti: @100101110
+# Crediti: @Sam1001111010
 #
 """Commands:
 .avast
@@ -98,23 +98,23 @@ async def _(event):
     await event.edit("call")
     animation_chars = [
         
-            "**Chiamata alla sede di Telegram...**",
+            "**Chiamata alla sede della dark emperors...**",
             "**Chiamata Connessa**",
-            "**Telegram: Salve, risponde la sede di Telegram. Chi è lei?**",
-            f"{DEFAULTUSER}:**Salve sono** {DEFAULTUSER} ,**Devo parlare con il mio socio ,Pavel Durov**",
+            "**Dark Emperors: Salve, risponde la sede della Dark Emperors. Chi è lei?**",
+            f"{DEFAULTUSER}:**Salve sono** {DEFAULTUSER} ,**Devo parlare con il mio socio ,Nathan Swift**",
             "**User Autorizzato**",
-            "**Chiamata a Pavel Durov** **+6969696969**",
+            "**Chiamata a Nathan Swift** **+124356323**",
             "**Chiamata Connessa**",  
             f"{DEFAULTUSER}:**Banna questo account da Telegram**",
-            "**Pavel: Posso sapere chi sei?**",
-            f"{DEFAULTUSER}:**Yo bro, sono il tuo socio**",
-            "**Pavel: OMG!!! Ma è da tanto che non ci vediamo, bro...\nMi assicurerò io che l'account venga bloccato entro 24 ore.**",
+            "**Nathan: Posso sapere chi sei?**",
+            f"{DEFAULTUSER}:**Yo bro, sono il tuo socio, Sam**",
+            "**Pavel: OMG!!! Ma è da tanto che non ci vediamo, Sam...\nMi assicurerò io che l'account venga bloccato entro 24 ore.**",
             f"{DEFAULTUSER}:**Grazie, a dopo bro.**",
-            "**Pavel: Ma va bro, telegram è nostro. Chiamami quando sei libero**",
+            "**Nathan: Ma va bro, telegram è nostro. Chiamami quando sei libero**",
             f"{DEFAULTUSER}:**C'è qualche problema bro?🤔**",
-            "**Pavel: Sì bro, c'è un bug in telegram v8.6.9.\nNon sono in grado di risolverlo. Mi, aiuti a correggere il bug?**",
+            "**Nathan: Sì bro, c'è un bug in telegram v8.6.9.\nNon sono in grado di risolverlo. Mi, aiuti a correggere il bug?**",
             f"{DEFAULTUSER}:**Inviami tutto in chat, risolverò il bug.**",
-            "**Pavel: Grazie bro \nCi sentiamo :)**",
+            "**Nathan: Grazie bro \nCi sentiamo :)**",
             "**Chiamata Disconnessa.**"
         ]
 
