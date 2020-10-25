@@ -158,7 +158,7 @@ async def on_afk(event):
         message_to_reply = f"**⛔️ IL MIO CAPO SAM È AFK ⛔️ DA** `{total_afk_time}`\n**QUINDI NON SPAMMARE GRAZIE.**" + \
             f"\n\n**QUANDO SARA' ONLINE RISPONDERA' A TUTTI BYE.**\n**MOTIVO**: {reason}" \
             if reason \
-            else f"**⛔️ AL MOMENTO SAM E' SONO OFF ⛔️**\n\n**LASCIA UN MESSAGGIO SE DEVI CHIEDERGLI QUALCOSA GRAZIE ‼️**\n**APPENA TORNA CERCHERA' DI RISPONDERE BYE 👍**"
+            else f"**⛔️ AL MOMENTO SAM E'OFF ⛔️**\n\n**LASCIA UN MESSAGGIO SE DEVI CHIEDERGLI QUALCOSA GRAZIE ‼️**\n**APPENA TORNA CERCHERA' DI RISPONDERE BYE 👍**"
         msg = await event.reply(message_to_reply)
         await asyncio.sleep(5)
         if event.chat_id in last_afk_message:  # pylint:disable=E0602
